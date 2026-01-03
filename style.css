@@ -46,6 +46,9 @@ body {
   padding: 8px 12px;
   transition: color 0.3s ease;
 }
+.font{
+  font-weight: bold;
+}
 
 /* Hover Effect for Links */
 .header ul li a::after {
