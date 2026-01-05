@@ -483,3 +483,9 @@ a:hover {
     object-fit: cover;
     background-color: #f0f4f5;
 }
+
+/* blur some images Temporarily */
+.blur-effect {
+    filter: blur(6px); 
+    transition: 0.3s;  
+}
