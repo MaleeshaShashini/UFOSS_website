@@ -168,7 +168,7 @@ body {
 /* General styles for paragraphs */
 p.lead {
   text-align: justify; /* Justifies the text for a clean edge */
-  margin-bottom: 1.2em; /* Adds spacing between paragraphs */
+  margin-bottom: 1.1em; /* Adds spacing between paragraphs */
 }
 .container2 {
   margin-bottom: 25px;
