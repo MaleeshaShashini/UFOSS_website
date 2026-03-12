@@ -485,10 +485,10 @@ a:hover {
 }
 
 /* blur some images Temporarily */
-.blur-effect {
+/* .blur-effect {
     filter: blur(6px); 
     transition: 0.3s;  
-}
+} */
 @media (max-width: 576px) {
     .breadcrumb {
         font-size: 14px; 
